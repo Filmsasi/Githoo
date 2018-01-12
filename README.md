@@ -1,2 +1,1 @@
-"# Githoo" 
-HELLO, THIS IS MY REPOSITORY
+"Githoo" 
